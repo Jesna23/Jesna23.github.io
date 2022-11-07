@@ -1,7 +1,7 @@
 ---
 title: "Inner filter effect as a boon in perovskite sensing system to achieve higher sensitivity levels"
 collection: Article
-permalink: /publication/2021-11-23-Inner-filter-effect-as-a-boon-in-perovskite-sensing-system-to-achieve-higher-sensitivity-1
+permalink: /publication/2021-11-23-Inner-filter-effect-as-a-boon-in-perovskite-sensing-system-to-achieve-higher-sensitivity
 
 date: 2021-11-23
 venue: 'ACS Aplied Materials and Interfaces'
